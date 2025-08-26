@@ -59,11 +59,6 @@ Keeping billing simple while giving businesses the reports they need to grow.
  How to Run
 
 
-Clone the repo:
-
-git clone https://github.com/your-username/restaurant-billing.git
-cd restaurant-billing
-
 
 Install dependencies:
 
