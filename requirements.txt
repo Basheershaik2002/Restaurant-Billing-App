@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf2
+from fpdf import FPDF
+openpyxl
+matplotlib
