@@ -7,7 +7,7 @@ This is a project I built to simplify restaurant billing and make reporting seam
 I wanted to create a lightweight, simple-to-use tool that helps both staff (easy billing) and owners (clear reports) without adding unnecessary complexity.
 
 You Can click the link to view sample app
-(https://drive.google.com/file/d/1CDdCk-IA3fw6W3fCL3j7A_QjzcgGqpMf/view?usp=sharing)
+(http://localhost:8501/)
 
 
 Features
@@ -70,8 +70,5 @@ Run the app:
 
 streamlit run Billing.py
 
-
-
-Open http://localhost:8501 in your browser
 
 This project is very close to me because it reflects how technology can make daily tasks easier. It’s a small step toward combining functionality and simplicity.
