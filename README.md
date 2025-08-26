@@ -9,7 +9,7 @@ I wanted to create a lightweight, simple-to-use tool that helps both staff (easy
 You Can click the link to view sample app
 (http://localhost:8501/)
 
-
+You can click here to see the project as PPT (https://drive.google.com/file/d/1kC9dE8-7VkxXlJBxqIf6N8Mw28bO98sx/view?usp=sharing)
 Features
 
 Billing System
