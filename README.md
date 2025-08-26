@@ -6,7 +6,7 @@ This is a project I built to simplify restaurant billing and make reporting seam
 
 I wanted to create a lightweight, simple-to-use tool that helps both staff (easy billing) and owners (clear reports) without adding unnecessary complexity.
 
-You Can click the below link to view sample app
+You Can click the link to view sample app
 (https://drive.google.com/file/d/1CDdCk-IA3fw6W3fCL3j7A_QjzcgGqpMf/view?usp=sharing)
 
 Features
